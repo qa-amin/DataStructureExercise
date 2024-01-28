@@ -3,9 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.50_popular_coding_interview_problems", "1.50_popular_coding_interview_problems", "{8C8F2C81-835B-42DD-9A68-5EA8F428230E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Find_pair_that_sums_up_to_k", "1.Find_pair_that_sums_up_to_k", "{0FE4C168-6D86-4267-8064-2D80A55EDDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_pair", "1.50_popular_coding_interview_problems\1.Find_pair_that_sums_up_to_k\Find_pair\Find_pair.csproj", "{BBB68EC7-F263-4501-8939-2DD9178DE9F2}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FE4C168-6D86-4267-8064-2D80A55EDDCB} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{BBB68EC7-F263-4501-8939-2DD9178DE9F2} = {0FE4C168-6D86-4267-8064-2D80A55EDDCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
