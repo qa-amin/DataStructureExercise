@@ -7,7 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.50_popular_coding_intervi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Find_pair_that_sums_up_to_k", "1.Find_pair_that_sums_up_to_k", "{0FE4C168-6D86-4267-8064-2D80A55EDDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_pair", "1.50_popular_coding_interview_problems\1.Find_pair_that_sums_up_to_k\Find_pair\Find_pair.csproj", "{BBB68EC7-F263-4501-8939-2DD9178DE9F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_pair", "1.50_popular_coding_interview_problems\1.Find_pair_that_sums_up_to_k\Find_pair\Find_pair.csproj", "{BBB68EC7-F263-4501-8939-2DD9178DE9F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.First_repeating_character", "2.First_repeating_character", "{B80EFD9F-96CE-4ADB-9D9A-A7EF43288072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_repeating", "1.50_popular_coding_interview_problems\2.First_repeating_character\First_repeating\First_repeating.csproj", "{4F086E5F-A454-4DE3-8F20-9C24EC8658AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,10 @@ Global
 		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB68EC7-F263-4501-8939-2DD9178DE9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F086E5F-A454-4DE3-8F20-9C24EC8658AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F086E5F-A454-4DE3-8F20-9C24EC8658AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F086E5F-A454-4DE3-8F20-9C24EC8658AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F086E5F-A454-4DE3-8F20-9C24EC8658AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0FE4C168-6D86-4267-8064-2D80A55EDDCB} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{BBB68EC7-F263-4501-8939-2DD9178DE9F2} = {0FE4C168-6D86-4267-8064-2D80A55EDDCB}
+		{B80EFD9F-96CE-4ADB-9D9A-A7EF43288072} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{4F086E5F-A454-4DE3-8F20-9C24EC8658AB} = {B80EFD9F-96CE-4ADB-9D9A-A7EF43288072}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
