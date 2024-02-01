@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove_duplicates", "1.50_p
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Find_the_duplicate", "4.Find_the_duplicate", "{E34EB130-BC12-46A0-BCBA-B9125E74AB2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Find_the_duplicate", "1.50_popular_coding_interview_problems\4.Find_the_duplicate\4.Find_the_duplicate\4.Find_the_duplicate.csproj", "{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Find_the_duplicate", "1.50_popular_coding_interview_problems\4.Find_the_duplicate\4.Find_the_duplicate\4.Find_the_duplicate.csproj", "{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Tree_depth_first_search", "5.Tree_depth_first_search", "{879E679C-68AB-49E5-B8F0-E56A52CE7285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depth_first_search", "1.50_popular_coding_interview_problems\5.Tree_depth_first_search\depth_first_search\depth_first_search.csproj", "{DE776597-D790-4618-8BAB-C1FA3109D496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,10 @@ Global
 		{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE776597-D790-4618-8BAB-C1FA3109D496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE776597-D790-4618-8BAB-C1FA3109D496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE776597-D790-4618-8BAB-C1FA3109D496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE776597-D790-4618-8BAB-C1FA3109D496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +64,8 @@ Global
 		{6BF6FC43-88BD-4DAE-A537-59A9B768029D} = {88CAC1AF-CFD1-45DB-9471-37E98A8945C2}
 		{E34EB130-BC12-46A0-BCBA-B9125E74AB2D} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6} = {E34EB130-BC12-46A0-BCBA-B9125E74AB2D}
+		{879E679C-68AB-49E5-B8F0-E56A52CE7285} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{DE776597-D790-4618-8BAB-C1FA3109D496} = {879E679C-68AB-49E5-B8F0-E56A52CE7285}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
