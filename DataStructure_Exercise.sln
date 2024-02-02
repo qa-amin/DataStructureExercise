@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Find_the_duplicate", "1.5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Tree_depth_first_search", "5.Tree_depth_first_search", "{879E679C-68AB-49E5-B8F0-E56A52CE7285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depth_first_search", "1.50_popular_coding_interview_problems\5.Tree_depth_first_search\depth_first_search\depth_first_search.csproj", "{DE776597-D790-4618-8BAB-C1FA3109D496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "depth_first_search", "1.50_popular_coding_interview_problems\5.Tree_depth_first_search\depth_first_search\depth_first_search.csproj", "{DE776597-D790-4618-8BAB-C1FA3109D496}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Maximum_subarray", "6.Maximum_subarray", "{34BEA999-80D9-455B-A2E6-478B752B7FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum_subarray", "1.50_popular_coding_interview_problems\6.Maximum_subarray\Maximum_subarray\Maximum_subarray.csproj", "{DB02D867-8265-4B65-B8D7-0A1D06C5C903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,10 @@ Global
 		{DE776597-D790-4618-8BAB-C1FA3109D496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE776597-D790-4618-8BAB-C1FA3109D496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE776597-D790-4618-8BAB-C1FA3109D496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,8 @@ Global
 		{673A2D8E-7490-4CF1-B6B6-236B74B2D8F6} = {E34EB130-BC12-46A0-BCBA-B9125E74AB2D}
 		{879E679C-68AB-49E5-B8F0-E56A52CE7285} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{DE776597-D790-4618-8BAB-C1FA3109D496} = {879E679C-68AB-49E5-B8F0-E56A52CE7285}
+		{34BEA999-80D9-455B-A2E6-478B752B7FB4} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{DB02D867-8265-4B65-B8D7-0A1D06C5C903} = {34BEA999-80D9-455B-A2E6-478B752B7FB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
