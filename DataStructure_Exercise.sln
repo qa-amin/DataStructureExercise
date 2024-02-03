@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "depth_first_search", "1.50_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Maximum_subarray", "6.Maximum_subarray", "{34BEA999-80D9-455B-A2E6-478B752B7FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum_subarray", "1.50_popular_coding_interview_problems\6.Maximum_subarray\Maximum_subarray\Maximum_subarray.csproj", "{DB02D867-8265-4B65-B8D7-0A1D06C5C903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum_subarray", "1.50_popular_coding_interview_problems\6.Maximum_subarray\Maximum_subarray\Maximum_subarray.csproj", "{DB02D867-8265-4B65-B8D7-0A1D06C5C903}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.Reverse_binary_tree", "7.Reverse_binary_tree", "{E60F3C4D-545B-4867-89CB-7AAFB7748FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_binary_tree", "1.50_popular_coding_interview_problems\7.Reverse_binary_tree\Reverse_binary_tree\Reverse_binary_tree.csproj", "{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,10 @@ Global
 		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB02D867-8265-4B65-B8D7-0A1D06C5C903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +84,8 @@ Global
 		{DE776597-D790-4618-8BAB-C1FA3109D496} = {879E679C-68AB-49E5-B8F0-E56A52CE7285}
 		{34BEA999-80D9-455B-A2E6-478B752B7FB4} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{DB02D867-8265-4B65-B8D7-0A1D06C5C903} = {34BEA999-80D9-455B-A2E6-478B752B7FB4}
+		{E60F3C4D-545B-4867-89CB-7AAFB7748FD8} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB} = {E60F3C4D-545B-4867-89CB-7AAFB7748FD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
