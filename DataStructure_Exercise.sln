@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum_subarray", "1.50_po
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.Reverse_binary_tree", "7.Reverse_binary_tree", "{E60F3C4D-545B-4867-89CB-7AAFB7748FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_binary_tree", "1.50_popular_coding_interview_problems\7.Reverse_binary_tree\Reverse_binary_tree\Reverse_binary_tree.csproj", "{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_binary_tree", "1.50_popular_coding_interview_problems\7.Reverse_binary_tree\Reverse_binary_tree\Reverse_binary_tree.csproj", "{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.Reverse_linked_list", "9.Reverse_linked_list", "{BECAAB76-4337-4BF9-A64D-6A6384C00E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_linked_list", "1.50_popular_coding_interview_problems\9.Reverse_linked_list\Reverse_linked_list\Reverse_linked_list.csproj", "{DE72B831-ECCC-4BA9-B34C-998470395180}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +71,10 @@ Global
 		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE72B831-ECCC-4BA9-B34C-998470395180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE72B831-ECCC-4BA9-B34C-998470395180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE72B831-ECCC-4BA9-B34C-998470395180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE72B831-ECCC-4BA9-B34C-998470395180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +94,8 @@ Global
 		{DB02D867-8265-4B65-B8D7-0A1D06C5C903} = {34BEA999-80D9-455B-A2E6-478B752B7FB4}
 		{E60F3C4D-545B-4867-89CB-7AAFB7748FD8} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{06059259-5DB2-4F3E-8D81-51C86FF0ADCB} = {E60F3C4D-545B-4867-89CB-7AAFB7748FD8}
+		{BECAAB76-4337-4BF9-A64D-6A6384C00E1D} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{DE72B831-ECCC-4BA9-B34C-998470395180} = {BECAAB76-4337-4BF9-A64D-6A6384C00E1D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
