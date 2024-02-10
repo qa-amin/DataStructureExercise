@@ -39,7 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_linked_list", "1.50
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.Peak_finding", "10.Peak_finding", "{9C4B3518-D28E-426E-A069-11B6A7F91512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peak_finding", "1.50_popular_coding_interview_problems\10.Peak_finding\Peak_finding\Peak_finding.csproj", "{20170BC6-5DFA-4520-A1CB-0E04669E33BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peak_finding", "1.50_popular_coding_interview_problems\10.Peak_finding\Peak_finding\Peak_finding.csproj", "{20170BC6-5DFA-4520-A1CB-0E04669E33BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11.Palindrome_linked_list", "11.Palindrome_linked_list", "{FAFA78C7-E11B-4D3E-9CBB-661701F2170C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome_linked_list", "1.50_popular_coding_interview_problems\11.Palindrome_linked_list\Palindrome_linked_list\Palindrome_linked_list.csproj", "{79D57321-24F8-4F49-BC47-7DB61F6A707A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +87,10 @@ Global
 		{20170BC6-5DFA-4520-A1CB-0E04669E33BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20170BC6-5DFA-4520-A1CB-0E04669E33BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20170BC6-5DFA-4520-A1CB-0E04669E33BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D57321-24F8-4F49-BC47-7DB61F6A707A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D57321-24F8-4F49-BC47-7DB61F6A707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D57321-24F8-4F49-BC47-7DB61F6A707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D57321-24F8-4F49-BC47-7DB61F6A707A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +114,8 @@ Global
 		{DE72B831-ECCC-4BA9-B34C-998470395180} = {BECAAB76-4337-4BF9-A64D-6A6384C00E1D}
 		{9C4B3518-D28E-426E-A069-11B6A7F91512} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{20170BC6-5DFA-4520-A1CB-0E04669E33BD} = {9C4B3518-D28E-426E-A069-11B6A7F91512}
+		{FAFA78C7-E11B-4D3E-9CBB-661701F2170C} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{79D57321-24F8-4F49-BC47-7DB61F6A707A} = {FAFA78C7-E11B-4D3E-9CBB-661701F2170C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
