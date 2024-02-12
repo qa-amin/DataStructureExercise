@@ -47,7 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome_linked_list", "1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.Longest_possible_palindrome", "12.Longest_possible_palindrome", "{63703526-929A-4388-AA2B-49B13C792B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "long_palindrome", "1.50_popular_coding_interview_problems\12.Longest_possible_palindrome\long_palindrome\long_palindrome.csproj", "{C13E8ABA-8939-46BD-A83B-E24BA26046B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "long_palindrome", "1.50_popular_coding_interview_problems\12.Longest_possible_palindrome\long_palindrome\long_palindrome.csproj", "{C13E8ABA-8939-46BD-A83B-E24BA26046B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.Longest_substring_without_repeating_characters", "8.Longest_substring_without_repeating_characters", "{A1E15F9F-3273-47F0-9094-F51CB47BF35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest_substring", "1.50_popular_coding_interview_problems\8.Longest_substring\Longest_substring\Longest_substring.csproj", "{061E629D-995A-4A77-B807-308E6D6B5746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,10 @@ Global
 		{C13E8ABA-8939-46BD-A83B-E24BA26046B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13E8ABA-8939-46BD-A83B-E24BA26046B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13E8ABA-8939-46BD-A83B-E24BA26046B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061E629D-995A-4A77-B807-308E6D6B5746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061E629D-995A-4A77-B807-308E6D6B5746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061E629D-995A-4A77-B807-308E6D6B5746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061E629D-995A-4A77-B807-308E6D6B5746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +134,8 @@ Global
 		{79D57321-24F8-4F49-BC47-7DB61F6A707A} = {FAFA78C7-E11B-4D3E-9CBB-661701F2170C}
 		{63703526-929A-4388-AA2B-49B13C792B71} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
 		{C13E8ABA-8939-46BD-A83B-E24BA26046B5} = {63703526-929A-4388-AA2B-49B13C792B71}
+		{A1E15F9F-3273-47F0-9094-F51CB47BF35C} = {8C8F2C81-835B-42DD-9A68-5EA8F428230E}
+		{061E629D-995A-4A77-B807-308E6D6B5746} = {A1E15F9F-3273-47F0-9094-F51CB47BF35C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88F736EC-BF16-411F-BF24-85303FE5BE65}
